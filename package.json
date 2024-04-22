@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "name": "portfolio",
+  "description": "A professional Portfolio site showcasing various React, React Native, and Expo projects, as well as Figma designs.",
+  "version": "1.0.0",
+  "homepage": "https://tiu02.github.io/portfolio/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
